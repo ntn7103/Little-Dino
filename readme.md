@@ -54,7 +54,7 @@ Boss is an animal. Like its name, Cat is boss.
 What can boss do? Walk and walk
 
 - almost attributes are similar to bat.py
-- I wanted to make skill for boss, some magic spells. When cat casting spell, it has to stay idle state (player can shoot easily). But with less of time, I have to remove that.
+- I wanted to make skill for boss, some skills for the Cat but due to the lack of time, I had to skip it
 
 # Visualization:
 <img width="707" alt="Ảnh màn hình 2023-07-12 lúc 11 38 45 SA" src="https://github.com/ntn7103/Little-Dino/assets/138243053/cda75c07-4c28-4c9f-92b5-1680e0634b71">
