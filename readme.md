@@ -11,7 +11,7 @@ To display and use all sprite objects, I use 3 attributes:
 in file utils.py
 
 # spritesheet.py
-Because animation are in sprite sheet form, so a special class to handle them are needle.
+Because animation are in sprite sheet form, so a special class to handle them are needed.
 - get_sprite(): to cut image from sprite sheet.
 
 # bat.py
