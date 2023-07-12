@@ -1,4 +1,4 @@
-Explain about pygame.sprite.Sprite
+
 All class for object in this project are inheritated from pygame.sprite.Sprite, which has some main methods:
 - .update()
 - .draw()
@@ -55,4 +55,9 @@ What can boss do? Walk and walk
 
 - almost attributes are similar to bat.py
 - I wanted to make skill for boss, some magic spells. When cat casting spell, it has to stay idle state (player can shoot easily). But with less of time, I have to remove that.
+
+# Visualization:
+
+<img width="794" alt="Ảnh màn hình 2023-07-10 lúc 11 15 47 SA" src="https://github.com/ntn7103/Little-Dino/assets/138243053/72f5b3ef-b439-488d-bc51-462f4f2602d5">
+
 
