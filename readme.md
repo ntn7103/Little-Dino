@@ -57,7 +57,11 @@ What can boss do? Walk and walk
 - I wanted to make skill for boss, some magic spells. When cat casting spell, it has to stay idle state (player can shoot easily). But with less of time, I have to remove that.
 
 # Visualization:
+<img width="707" alt="Ảnh màn hình 2023-07-12 lúc 11 38 45 SA" src="https://github.com/ntn7103/Little-Dino/assets/138243053/cda75c07-4c28-4c9f-92b5-1680e0634b71">
 
 <img width="794" alt="Ảnh màn hình 2023-07-10 lúc 11 15 47 SA" src="https://github.com/ntn7103/Little-Dino/assets/138243053/72f5b3ef-b439-488d-bc51-462f4f2602d5">
+<img width="709" alt="Ảnh màn hình 2023-07-12 lúc 11 39 17 SA" src="https://github.com/ntn7103/Little-Dino/assets/138243053/106eb2ca-f0f2-47f7-b5df-cccb7fb5715d">
+<img width="710" alt="Ảnh màn hình 2023-07-12 lúc 11 39 51 SA" src="https://github.com/ntn7103/Little-Dino/assets/138243053/33efe485-dfee-42f0-9f97-011825eea4f7">
+
 
 
