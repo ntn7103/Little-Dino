@@ -62,6 +62,9 @@ What can boss do? Walk and walk
 <img width="794" alt="Ảnh màn hình 2023-07-10 lúc 11 15 47 SA" src="https://github.com/ntn7103/Little-Dino/assets/138243053/72f5b3ef-b439-488d-bc51-462f4f2602d5">
 <img width="709" alt="Ảnh màn hình 2023-07-12 lúc 11 39 17 SA" src="https://github.com/ntn7103/Little-Dino/assets/138243053/106eb2ca-f0f2-47f7-b5df-cccb7fb5715d">
 <img width="710" alt="Ảnh màn hình 2023-07-12 lúc 11 39 51 SA" src="https://github.com/ntn7103/Little-Dino/assets/138243053/33efe485-dfee-42f0-9f97-011825eea4f7">
+<img width="707" alt="Ảnh màn hình 2023-07-12 lúc 11 38 45 SA" src="https://github.com/ntn7103/Little-Dino/assets/138243053/c58da186-c7cc-4462-adf0-ad23813e16e4">
+
+
 
 
 
